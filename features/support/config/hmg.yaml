@@ -14,3 +14,4 @@ users:
   admin:
       email: "admin@nflix.com"
       pass: "admin123"
+
